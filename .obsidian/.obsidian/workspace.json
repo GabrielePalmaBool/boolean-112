@@ -1,35 +1,17 @@
 {
   "main": {
-    "id": "e76dc903f67780c9",
+    "id": "144274069a46a299",
     "type": "split",
     "children": [
       {
-        "id": "ab69b4b1b47f3171",
+        "id": "33ee022faf15a6ce",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2dc2bbdc68b80a",
+            "id": "308c57c1076d1583",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello Boolean.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c1a28c44cfef2674",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa02284c4a6e02ec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -39,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b41141ff61f2fa39",
+    "id": "57224c76d7ca4d00",
     "type": "split",
     "children": [
       {
-        "id": "ac66a190b22a2f96",
+        "id": "043727b4df9c6944",
         "type": "tabs",
         "children": [
           {
-            "id": "af53271a29421aa1",
+            "id": "30e92812fa7c6aa0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +39,7 @@
             }
           },
           {
-            "id": "02e105a038fc5ba3",
+            "id": "59909a2705ccbe93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +54,7 @@
             }
           },
           {
-            "id": "624bdf0339c3af37",
+            "id": "e218ddcb133241a6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "5a337ebb94462893",
+    "id": "dac73d95a167a3c2",
     "type": "split",
     "children": [
       {
-        "id": "98123aee5c69790f",
+        "id": "a842ea0a9ca9f462",
         "type": "tabs",
         "children": [
           {
-            "id": "db04aeb0c130f117",
+            "id": "2dd1c404129b62e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Boolean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,19 +92,18 @@
             }
           },
           {
-            "id": "ed4f99b1a77a73f6",
+            "id": "ba200a06f4cbf3d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Boolean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b9d56d33c60611b5",
+            "id": "eb0b5dd6fa5edb6c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,13 +114,11 @@
             }
           },
           {
-            "id": "43b279b774054e98",
+            "id": "54b48fbd3235ede1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hello Boolean.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,9 +138,6 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "fd2dc2bbdc68b80a",
-  "lastOpenFiles": [
-    "Welcome.md",
-    "Hello Boolean.md"
-  ]
+  "active": "308c57c1076d1583",
+  "lastOpenFiles": []
 }
