@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ab69b4b1b47f3171",
+        "id": "b4af9d1f2a0fcc7b",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2dc2bbdc68b80a",
+            "id": "58b97dee031c223c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-22 - PHP Intro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-22 - PHP Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-22 - PHP Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +119,18 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "661639d563d317f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "2024-01-22 - PHP Intro.md"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -143,14 +148,44 @@
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false
+      "command-palette:Apri riquadro comandi": false,
+      "vscode-editor:Create Code File": false,
+      "code-files:Create Code File": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "fd2dc2bbdc68b80a",
+  "active": "58b97dee031c223c",
   "lastOpenFiles": [
-    "Hello Boolean.md",
+    "Senza nome.md",
     "2024-01-22 - PHP Intro.md",
+    "Tips & Tricks/Markdown/Slides/Slides demo.md",
+    "Tips & Tricks/Markdown/Mermaid/User Journey Diagram.md",
+    "Tips & Tricks/Markdown/Mermaid/Timeline.md",
+    "Tips & Tricks/Markdown/Mermaid/State diagram.md",
+    "Tips & Tricks/Markdown/Mermaid/Sequence Diagram.md",
+    "Tips & Tricks/Markdown/Mermaid/Pie.md",
+    "Tips & Tricks/Markdown/Mermaid/Git.md",
+    "Tips & Tricks/Markdown/Mermaid/Gantt.md",
+    "Tips & Tricks/Markdown/Mermaid/Flow.md",
+    "Tips & Tricks/Markdown/Mermaid/Entity Relationship.md",
+    "Tips & Tricks/Markdown/Mermaid/Class diagrams.md",
+    "Tips & Tricks/Markdown/Attach/Markdown Linkable Note.md",
+    "Tips & Tricks/Markdown/Slides",
+    "Tips & Tricks/Markdown/Mermaid",
+    "Tips & Tricks/Markdown/Markdown + Obsidian.md",
+    "Tips & Tricks/Markdown/Attach",
+    "Tips & Tricks/Markdown",
+    "Tips & Tricks/Aggiornare il Vault.md",
+    "Tips & Tricks",
+    "Live/2024-01-22 - PHP Intro.md",
     "Live",
+    "__assets/imgs/Pasted image 20240122125333.png",
+    "__assets/imgs/header-banner.png",
+    "__assets/imgs",
+    "__assets",
+    "Senza nome.canvas",
+    "index.php",
+    "Hello Boolean.md",
     "Welcome.md"
   ]
 }
