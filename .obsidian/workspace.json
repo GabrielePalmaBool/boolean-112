@@ -172,8 +172,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "58b97dee031c223c",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "Snacks/2024-01-29 - DB First.md",
+    "Live/2024-01-29 - Tabella Libri.md",
     "Workspace/03-php-function-and-includes/thankyou.php",
     "Workspace/03-php-function-and-includes/index.php",
     "Snacks/2024-01-24 - PHP Strong Password Generator.md",
@@ -189,7 +191,6 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/main.js",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/App.vue",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/README.md",
@@ -216,7 +217,6 @@
     "Tips & Tricks/Markdown/Mermaid/Gantt.md",
     "Tips & Tricks/Markdown/Mermaid/Flow.md",
     "Tips & Tricks/Markdown/Mermaid/Entity Relationship.md",
-    "Tips & Tricks/Markdown/Mermaid/Class diagrams.md",
     "__assets/imgs/Pasted image 20240122125333.png",
     "__assets/imgs/header-banner.png"
   ]
