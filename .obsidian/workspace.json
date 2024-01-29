@@ -13,26 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips & Tricks/Aggiornare il Vault.md",
+                "file": "Boolean Full Stack - 112.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff2098bc3c2ce3e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "262e3fbb3b155338",
+            "id": "078b4534755fdb05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Boolean Full Stack - 112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Boolean Full Stack - 112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Boolean Full Stack - 112.md"
               }
             }
           },
@@ -185,23 +172,33 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "262e3fbb3b155338",
+  "active": "58b97dee031c223c",
   "lastOpenFiles": [
-    "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-    "Live/2024-01-24 - Mail Checker.md",
-    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
-    "conflict-files-obsidian-git.md",
-    "Workspace/04-json_encode-decode/partials/functions.php",
-    "Workspace/04-json_encode-decode/thankyou.php",
-    "Workspace/04-json_encode-decode/partials",
-    "Workspace/04-json_encode-decode/index.php",
-    "Workspace/04-json_encode-decode",
-    "Snacks/2024-01-23 - PHP Hotel.md",
-    "Workspace/03-php-function-and-includes/partials/vars.php",
     "Workspace/03-php-function-and-includes/thankyou.php",
-    "Workspace/03-php-function-and-includes/partials",
     "Workspace/03-php-function-and-includes/index.php",
-    "Workspace/03-php-function-and-includes",
+    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
+    "Snacks/2024-01-25 - PHP ToDo List JSON.md",
+    "conflict-files-obsidian-git.md",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components/TasksComp.vue",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components/HelloWorld.vue",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/PostComponent.vue",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/HelloWorld.vue",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/style.css",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/main.js",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/App.vue",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/README.md",
+    "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
+    "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg",
+    "Workspace/04-json_encode-decode/Live/Front-end/README.md",
+    "Live/2024-01-24 - Mail Checker.md",
+    "Snacks/2024-01-23 - PHP Hotel.md",
     "Live/2024-01-23 - PHP Foundamentals.md",
     "Boolean Full Stack - 112.md",
     "Live/2024-01-22 - PHP Intro.md",
@@ -220,10 +217,7 @@
     "Tips & Tricks/Markdown/Mermaid/Flow.md",
     "Tips & Tricks/Markdown/Mermaid/Entity Relationship.md",
     "Tips & Tricks/Markdown/Mermaid/Class diagrams.md",
-    "Tips & Tricks/Markdown/Attach/Markdown Linkable Note.md",
-    "Tips & Tricks/Markdown/Markdown + Obsidian.md",
     "__assets/imgs/Pasted image 20240122125333.png",
-    "__assets/imgs/header-banner.png",
-    "Hello Boolean.md"
+    "__assets/imgs/header-banner.png"
   ]
 }

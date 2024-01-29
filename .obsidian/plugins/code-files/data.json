@@ -1,0 +1,19 @@
+{
+  "extensions": [
+    "ts",
+    "tsx",
+    "js",
+    "jsx",
+    "py",
+    "php",
+    "vue",
+    "css",
+    "html",
+    "json"
+  ],
+  "folding": true,
+  "lineNumbers": true,
+  "minimap": true,
+  "semanticValidation": true,
+  "syntaxValidation": true
+}
