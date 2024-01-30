@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Snacks/2024-01-29 - DB First.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Snacks/2024-01-29 - DB First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Snacks/2024-01-29 - DB First.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Full Stack - 112.md"
+                "file": "Snacks/2024-01-29 - DB First.md"
               }
             }
           },
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +171,9 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af53271a29421aa1",
+  "active": "58b97dee031c223c",
   "lastOpenFiles": [
+    "Boolean Full Stack - 112.md",
     "Snacks/2024-01-29 - DB First.md",
     "Live/2024-01-29 - Tabella Libri.md",
     "Workspace/03-php-function-and-includes/thankyou.php",
@@ -201,7 +201,6 @@
     "Live/2024-01-24 - Mail Checker.md",
     "Snacks/2024-01-23 - PHP Hotel.md",
     "Live/2024-01-23 - PHP Foundamentals.md",
-    "Boolean Full Stack - 112.md",
     "Live/2024-01-22 - PHP Intro.md",
     "Tips & Tricks/Aggiornare il Vault.md",
     "Senza nome.md",
