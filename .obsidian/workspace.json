@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md"
+                "file": "Database/2024-01-31 - DB University.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "58b97dee031c223c",
   "lastOpenFiles": [
+    "Live/2024-01-30 - 1 - DB E-Commerce.md",
     "db_university.sql.gz",
     "__assets/imgs/db-university.drawio.png",
     "__assets/dump/db_university.sql.gz",
@@ -168,7 +169,6 @@
     "Database/2024-01-31 - DB University.md",
     "Database",
     "conflict-files-obsidian-git.md",
-    "Live/2024-01-30 - 1 - DB E-Commerce.md",
     "Live/2024-01-30 - 2 - Biblioteca.md",
     "Snacks/2024-01-29 - DB First.md",
     "Snacks/2024-01-30 - DB University.md",
@@ -186,7 +186,6 @@
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/HelloWorld.vue",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/style.css",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/README.md",
