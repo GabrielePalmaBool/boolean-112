@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "078b4534755fdb05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md",
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md",
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md"
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md"
               }
             }
           },
@@ -173,19 +161,19 @@
   },
   "active": "58b97dee031c223c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Live/2024-01-30 - 1 - DB E-Commerce.md",
+    "Live/2024-01-30 - 2 - Biblioteca.md",
+    "Snacks/2024-01-29 - DB First.md",
+    "Snacks/2024-01-30 - DB University.md",
     "__assets/imgs/db_e-commerce.drawio.png",
     "__assets/imgs/Biblioteca.drawio.png",
-    "Snacks/2024-01-30 - DB University.md",
-    "Live/2024-01-30 - 2 - Biblioteca.md",
-    "Live/2024-01-30 - 1 - DB E-Commerce.md",
     "Boolean Full Stack - 112.md",
-    "Snacks/2024-01-29 - DB First.md",
     "Live/2024-01-29 - Tabella Libri.md",
     "Workspace/03-php-function-and-includes/thankyou.php",
     "Workspace/03-php-function-and-includes/index.php",
     "Snacks/2024-01-24 - PHP Strong Password Generator.md",
     "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-    "conflict-files-obsidian-git.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components/TasksComp.vue",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components/HelloWorld.vue",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/PostComponent.vue",
