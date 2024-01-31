@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md",
+                "file": "Snacks/2024-01-31 - DB University.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md",
+                "file": "Snacks/2024-01-31 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md",
+                "file": "Snacks/2024-01-31 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md"
+                "file": "Snacks/2024-01-31 - DB University.md"
               }
             }
           },
@@ -159,8 +159,9 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af53271a29421aa1",
+  "active": "58b97dee031c223c",
   "lastOpenFiles": [
+    "Database/2024-01-31 - DB University.md",
     "__assets/imgs/Pasted image 20240131120038.png",
     "Snacks/2024-01-31 - DB University.md",
     "Live/2024-01-31 - DB University.md",
@@ -169,7 +170,6 @@
     "__assets/imgs/db-university.drawio.png",
     "__assets/dump/db_university.sql.gz",
     "__assets/dump",
-    "Database/2024-01-31 - DB University.md",
     "Database",
     "conflict-files-obsidian-git.md",
     "Live/2024-01-30 - 2 - Biblioteca.md",
@@ -206,7 +206,6 @@
     "2024-01-22 - PHP Intro.md",
     "Tips & Tricks/Markdown/Slides/Slides demo.md",
     "Tips & Tricks/Markdown/Mermaid/User Journey Diagram.md",
-    "Tips & Tricks/Markdown/Mermaid/Timeline.md",
-    "__assets/imgs/Pasted image 20240122125333.png"
+    "Tips & Tricks/Markdown/Mermaid/Timeline.md"
   ]
 }
