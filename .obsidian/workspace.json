@@ -159,8 +159,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "58b97dee031c223c",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "__assets/imgs/Pasted image 20240131120038.png",
+    "Snacks/2024-01-31 - DB University.md",
+    "Live/2024-01-31 - DB University.md",
     "Live/2024-01-30 - 1 - DB E-Commerce.md",
     "db_university.sql.gz",
     "__assets/imgs/db-university.drawio.png",
@@ -204,8 +207,6 @@
     "Tips & Tricks/Markdown/Slides/Slides demo.md",
     "Tips & Tricks/Markdown/Mermaid/User Journey Diagram.md",
     "Tips & Tricks/Markdown/Mermaid/Timeline.md",
-    "Tips & Tricks/Markdown/Mermaid/State diagram.md",
-    "Tips & Tricks/Markdown/Mermaid/Sequence Diagram.md",
     "__assets/imgs/Pasted image 20240122125333.png"
   ]
 }
