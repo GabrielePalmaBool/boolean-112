@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e76dc903f67780c9",
+    "id": "9ec7e11f3d447ad7",
     "type": "split",
     "children": [
       {
-        "id": "b4af9d1f2a0fcc7b",
+        "id": "a9173950957fb02b",
         "type": "tabs",
         "children": [
           {
-            "id": "58b97dee031c223c",
+            "id": "b1f4e6e88b3b8cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b41141ff61f2fa39",
+    "id": "0cff0b972aefe8da",
     "type": "split",
     "children": [
       {
-        "id": "ac66a190b22a2f96",
+        "id": "4d7eb923e1367dc4",
         "type": "tabs",
         "children": [
           {
-            "id": "af53271a29421aa1",
+            "id": "de66abca40b78661",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "02e105a038fc5ba3",
+            "id": "fa64376ff975b5e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "624bdf0339c3af37",
+            "id": "22d888c05eec49f2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "5a337ebb94462893",
+    "id": "6059adab3b473a19",
     "type": "split",
     "children": [
       {
-        "id": "98123aee5c69790f",
+        "id": "cfa183803eb928fd",
         "type": "tabs",
         "children": [
           {
-            "id": "db04aeb0c130f117",
+            "id": "5bb53d9bc8b51163",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "ed4f99b1a77a73f6",
+            "id": "b37b6de0c6fbf5c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "b9d56d33c60611b5",
+            "id": "ea16d5aa18e03016",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,7 @@
             }
           },
           {
-            "id": "43b279b774054e98",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Snacks/2024-01-31 - DB University.md"
-              }
-            }
-          },
-          {
-            "id": "661639d563d317f3",
+            "id": "13bd27a6a2242824",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -140,85 +130,36 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "0c34d7ad55f75ee2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Snacks/2024-01-31 - DB University.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "code-files:Create Code File": false,
+      "open-vscode:VSCode": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
-      "command-palette:Apri riquadro comandi": false,
-      "code-files:Create Code File": false,
-      "open-vscode:VSCode": false
+      "command-palette:Apri riquadro comandi": false
     }
   },
-<<<<<<< HEAD
-  "active": "58b97dee031c223c",
-  "lastOpenFiles": [
-=======
-  "active": "c137fc7583d35dd8",
-  "lastOpenFiles": [
-    "Live/2024-01-31 - DB University.md",
-    "Snacks/2024-01-31 - DB University.md",
-    "Snacks/2024-01-30 - DB University.md",
->>>>>>> cfec7179653165efbe18d508e85b8305a6c9d918
-    "Database/2024-01-31 - DB University.md",
-    "__assets/imgs/Pasted image 20240131120038.png",
-    "Snacks/2024-01-31 - DB University.md",
-    "Live/2024-01-31 - DB University.md",
-    "Live/2024-01-30 - 1 - DB E-Commerce.md",
-    "db_university.sql.gz",
-    "__assets/imgs/db-university.drawio.png",
-    "__assets/dump/db_university.sql.gz",
-    "__assets/dump",
-    "Database",
-<<<<<<< HEAD
-    "conflict-files-obsidian-git.md",
-=======
-    "__assets/imgs/db-university.drawio.png",
-    "Live/2024-01-30 - 1 - DB E-Commerce.md",
->>>>>>> cfec7179653165efbe18d508e85b8305a6c9d918
-    "Live/2024-01-30 - 2 - Biblioteca.md",
-    "Snacks/2024-01-29 - DB First.md",
-    "Snacks/2024-01-30 - DB University.md",
-    "__assets/imgs/db_e-commerce.drawio.png",
-    "__assets/imgs/Biblioteca.drawio.png",
-    "Boolean Full Stack - 112.md",
-    "Live/2024-01-29 - Tabella Libri.md",
-    "Workspace/03-php-function-and-includes/thankyou.php",
-    "Workspace/03-php-function-and-includes/index.php",
-    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
-    "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components/TasksComp.vue",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components/HelloWorld.vue",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/PostComponent.vue",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/HelloWorld.vue",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/README.md",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/README.md",
-    "Live/2024-01-24 - Mail Checker.md",
-    "Snacks/2024-01-23 - PHP Hotel.md",
-    "Live/2024-01-23 - PHP Foundamentals.md",
-    "Live/2024-01-22 - PHP Intro.md",
-    "Tips & Tricks/Aggiornare il Vault.md",
-    "Senza nome.md",
-    "Senza nome.canvas",
-    "2024-01-22 - PHP Intro.md",
-    "Tips & Tricks/Markdown/Slides/Slides demo.md",
-    "Tips & Tricks/Markdown/Mermaid/User Journey Diagram.md",
-    "Tips & Tricks/Markdown/Mermaid/Timeline.md"
-  ]
+  "active": "b1f4e6e88b3b8cd0",
+  "lastOpenFiles": []
 }
