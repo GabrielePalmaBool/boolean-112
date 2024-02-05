@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md"
+                "file": "Database/2024-01-31 - DB University.md"
               }
             }
           }
@@ -160,13 +160,13 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "b1f4e6e88b3b8cd0",
+  "active": "de66abca40b78661",
   "lastOpenFiles": [
+    "Snacks/2024-02-01 - DB University - 3.md",
     "Workspace/06-php-oop-1/index.php",
     "Workspace/06-php-oop-1",
     "Snacks/2024-02-02 - php-oop-1.md",
     "Snacks/2024-01-31 - DB University.md",
-    "Snacks/2024-02-01 - DB University - 3.md",
     "Snacks/2024-01-31 - DB University - 2.md",
     "Snacks/2024-01-30 - DB University - 1.md",
     "Live/2024-02-01 - DB University - 2.md"
