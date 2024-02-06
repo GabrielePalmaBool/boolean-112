@@ -23,9 +23,11 @@
             "id": "c2f7581f18246f08",
             "type": "leaf",
             "state": {
-              "type": "code-editor",
+              "type": "markdown",
               "state": {
-                "file": "Workspace/06-php-oop-1/php-oop-1/db.php"
+                "file": "Snacks/2024-02-05 - php-oop-2.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workspace/06-php-oop-1/php-oop-1/db.php",
+                "file": "Snacks/2024-02-05 - php-oop-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workspace/06-php-oop-1/php-oop-1/db.php",
+                "file": "Snacks/2024-02-05 - php-oop-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workspace/06-php-oop-1/php-oop-1/db.php"
+                "file": "Snacks/2024-02-05 - php-oop-2.md"
               }
             }
           }
@@ -183,6 +185,8 @@
   },
   "active": "c2f7581f18246f08",
   "lastOpenFiles": [
+    "Snacks/2024-02-06 - php-oop-2.md",
+    "Workspace/06-php-oop-1/php-oop-1/db.php",
     "Workspace/07-php-oop-2/php-oop-2/models/food.php",
     "Workspace/07-php-oop-2/php-oop-2/models/product.php",
     "Workspace/07-php-oop-2/php-oop-2/models/category.php",
@@ -192,9 +196,6 @@
     "Workspace/07-php-oop-2/php-oop-2/db.php",
     "Workspace/07-php-oop-2/Live/index.php",
     "Workspace/07-php-oop-2/php-oop-2",
-    "Workspace/07-php-oop-2/Live",
-    "Workspace/07-php-oop-2",
-    "Snacks/2024-02-06 - php-oop-2.md",
     "Snacks/2024-02-05 - php-oop-2.md",
     "Snacks/2024-02-02 - php-oop-1.md",
     "Database/2024-01-31 - DB University.md",
