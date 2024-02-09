@@ -11,11 +11,9 @@
             "id": "24211d52ff670ad5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
-                "mode": "preview",
-                "source": false
+                "file": "Pasted image 20240209114715.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Pasted image 20240209114715.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Pasted image 20240209114715.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md"
+                "file": "Pasted image 20240209114715.png"
               }
             }
           }
@@ -162,6 +160,8 @@
   },
   "active": "24211d52ff670ad5",
   "lastOpenFiles": [
+    "Pasted image 20240209114433.png",
+    "Tips & Tricks/New Laravel Project.md",
     "Tips & Tricks/Markdown/Markdown + Obsidian.md"
   ]
 }
