@@ -11,8 +11,12 @@
             "id": "24211d52ff670ad5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2024-02-06 - php-oop-2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Snacks/2024-02-06 - php-oop-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Snacks/2024-02-06 - php-oop-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Snacks/2024-02-06 - php-oop-2.md"
+              }
             }
           }
         ]
@@ -154,21 +162,22 @@
   },
   "active": "24211d52ff670ad5",
   "lastOpenFiles": [
-    "Pasted image 20240209114715.png",
-    "single.png",
+    "Live/2024-02-05 - User Membership.md",
     "homepage.png",
+    "Tips & Tricks/Aggiornare il Vault.md",
+    "Tips & Tricks/New Laravel Project.md",
+    "Snacks/2024-02-09 - laravel-comics assets/footer-bg.jpg",
+    "Snacks/2024-02-09 - laravel-comics assets/cta-icons.png",
+    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-subscriptions.png",
+    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-merchandise.png",
+    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-digital-comics.png",
+    "Snacks/2024-02-09 - laravel-comics assets/adv.jpg",
+    "single.png",
+    "Pasted image 20240209114715.png",
     "__assets/imgs/Pasted image 20240209115747.png",
-    "__assets/imgs/Pasted image 20240209114715.png",
-    "__assets/imgs/Pasted image 20240209114433.png",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/me.png",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/background.webp",
     "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs",
-    "Snacks/2024-02-09 - laravel-comics assets/jumbotron.jpg",
-    "Snacks/2024-02-09 - laravel-comics assets/footer-youtube.png",
-    "Snacks/2024-02-09 - laravel-comics assets/footer-twitter.png",
     "Snacks/2024-02-09 - laravel-comics assets/favicon.ico",
     "Snacks/2024-02-09 - laravel-comics assets",
-    "Tips & Tricks/New Laravel Project.md",
     "Tips & Tricks/Markdown/Markdown + Obsidian.md"
   ]
 }
