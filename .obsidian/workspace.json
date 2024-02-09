@@ -11,10 +11,8 @@
             "id": "24211d52ff670ad5",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20240209114715.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240209114715.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240209114715.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasted image 20240209114715.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,7 +154,20 @@
   },
   "active": "24211d52ff670ad5",
   "lastOpenFiles": [
-    "Pasted image 20240209114433.png",
+    "Pasted image 20240209114715.png",
+    "single.png",
+    "homepage.png",
+    "__assets/imgs/Pasted image 20240209115747.png",
+    "__assets/imgs/Pasted image 20240209114715.png",
+    "__assets/imgs/Pasted image 20240209114433.png",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/me.png",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/background.webp",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs",
+    "Snacks/2024-02-09 - laravel-comics assets/jumbotron.jpg",
+    "Snacks/2024-02-09 - laravel-comics assets/footer-youtube.png",
+    "Snacks/2024-02-09 - laravel-comics assets/footer-twitter.png",
+    "Snacks/2024-02-09 - laravel-comics assets/favicon.ico",
+    "Snacks/2024-02-09 - laravel-comics assets",
     "Tips & Tricks/New Laravel Project.md",
     "Tips & Tricks/Markdown/Markdown + Obsidian.md"
   ]
