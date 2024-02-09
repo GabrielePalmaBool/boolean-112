@@ -1,30 +1,14 @@
 {
   "main": {
-    "id": "9ec7e11f3d447ad7",
+    "id": "81fef5a8b56544af",
     "type": "split",
     "children": [
       {
-        "id": "a9173950957fb02b",
+        "id": "a9089023153874a1",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f4e6e88b3b8cd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2024-02-02 - php-oop-1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "9ef9d7dc853a1d3c",
-=======
-            "id": "7180874d53ef4433",
->>>>>>> ef2e22c31b623394acbfbfad7241ba50a1e93a9c
+            "id": "24211d52ff670ad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0cff0b972aefe8da",
+    "id": "219125a06a06784d",
     "type": "split",
     "children": [
       {
-        "id": "4d7eb923e1367dc4",
+        "id": "a3e3d73da828a05d",
         "type": "tabs",
         "children": [
           {
-            "id": "de66abca40b78661",
+            "id": "3a8ccf1468cda792",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +43,7 @@
             }
           },
           {
-            "id": "fa64376ff975b5e4",
+            "id": "ef176d757e6c886e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +58,7 @@
             }
           },
           {
-            "id": "22d888c05eec49f2",
+            "id": "d029e3b17a95a7ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -89,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "6059adab3b473a19",
+    "id": "87e921b242594e4a",
     "type": "split",
     "children": [
       {
-        "id": "cfa183803eb928fd",
+        "id": "c917e2a852067c6e",
         "type": "tabs",
         "children": [
           {
-            "id": "5bb53d9bc8b51163",
+            "id": "5485b4c53ba95e8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -114,7 +97,7 @@
             }
           },
           {
-            "id": "b37b6de0c6fbf5c0",
+            "id": "1d5ef1a66d102617",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -126,7 +109,7 @@
             }
           },
           {
-            "id": "ea16d5aa18e03016",
+            "id": "7395a4537af1cdfb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +120,7 @@
             }
           },
           {
-            "id": "13bd27a6a2242824",
+            "id": "51afaf5bd3810b1c",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,7 +132,7 @@
             }
           },
           {
-            "id": "0c34d7ad55f75ee2",
+            "id": "350433999258448c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -158,12 +141,12 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,76 +160,8 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-<<<<<<< HEAD
-  "active": "de66abca40b78661",
+  "active": "24211d52ff670ad5",
   "lastOpenFiles": [
-    "Tips & Tricks/Markdown/Markdown + Obsidian.md",
-    "Tips & Tricks/Markdown/Attach/Markdown Linkable Note.md",
-    "Tips & Tricks/New Laravel Project.md",
-=======
-  "active": "7180874d53ef4433",
-  "lastOpenFiles": [
-    "Pasted image 20240209114715.png",
-    "Pasted image 20240209114433.png",
-    "Pasted image 20240209114403.png",
-    "Tips & Tricks/Aggiornare il Vault.md",
-    "Tips & Tricks/New Laravel Project.md",
-    "__assets/imgs/Pasted image 20240209114050.png",
-    "Boolean Full Stack - 112.md",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/components/header.blade.php",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/myTests/test3.blade.php",
-    "__assets/imgs/Pasted image 20240208123411.png",
-    "__assets/imgs/Pasted image 20240208123045.png",
-    "Workspace/09-laravel-intro/vendor/composer/tmp-5735a826bc67c86a789b75f708d61cea.zip",
-    "Workspace/09-laravel-intro/vendor/composer/1ce44b71",
-    "Workspace/09-laravel-intro/vendor/composer",
-    "Workspace/09-laravel-intro/vendor",
-    "Workspace/09-laravel-intro/HelloWorldProject",
-    "Workspace/09-laravel-intro",
-    "Workspace/08-php-mysqli/index.php",
-    "Workspace/07-php-oop-2/php-oop-2/db.php",
-    "Snacks/2024-02-05 - php-oop-2.md",
->>>>>>> ef2e22c31b623394acbfbfad7241ba50a1e93a9c
-    "Snacks/2024-02-06 - php-oop-2.md",
-    "Snacks/2024-02-01 - DB University - 3.md",
-    "Workspace/09-laravel-intro/HelloWorldProject/storage/framework/cache/data",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/VerifyCsrfToken.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/TrustProxies.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/TrustHosts.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/TrimStrings.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/RedirectIfAuthenticated.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/PreventRequestsDuringMaintenance.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/EncryptCookies.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/Authenticate.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Controllers/Controller.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/README.md",
-    "Snacks/2024-02-05 - php-oop-2.md",
-    "Snacks/2024-02-02 - php-oop-1.md",
-    "Boolean Full Stack - 112.md",
-    "conflict-files-obsidian-git.md",
-    "Snacks/2024-01-31 - DB University.md",
-    "Snacks/2024-01-31 - DB University - 2.md",
-    "Snacks/2024-01-30 - DB University - 1.md",
-<<<<<<< HEAD
-    "Live/2024-02-01 - DB University - 2.md"
-=======
-    "Database/2024-01-31 - DB University.md",
-    "__assets/imgs/Pasted image 20240131120038.png",
-    "__assets/imgs/db-university.drawio.png",
-    "Live/2024-01-30 - 1 - DB E-Commerce.md",
-    "__assets/imgs/Biblioteca.drawio.png",
-    "__assets/imgs/db_e-commerce.drawio.png",
-    "db_e-commerce.png",
-    "Live/2024-01-22 - PHP Intro.md",
-    "Snacks/2024-01-29 - DB First.md",
-    "Live/2024-01-29 - Tabella Libri.md",
-    "Untitled.md",
-    "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/HISTORY.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/Readme.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/HISTORY.md"
->>>>>>> ef2e22c31b623394acbfbfad7241ba50a1e93a9c
+    "Tips & Tricks/Markdown/Markdown + Obsidian.md"
   ]
 }
