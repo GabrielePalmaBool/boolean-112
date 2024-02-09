@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-01 - DB University - 3.md"
+                "file": "Tips & Tricks/New Laravel Project.md"
               }
             }
           }
@@ -173,8 +173,13 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "9ef9d7dc853a1d3c",
+  "active": "de66abca40b78661",
   "lastOpenFiles": [
+    "Tips & Tricks/Markdown/Markdown + Obsidian.md",
+    "Tips & Tricks/Markdown/Attach/Markdown Linkable Note.md",
+    "Tips & Tricks/New Laravel Project.md",
+    "Snacks/2024-02-06 - php-oop-2.md",
+    "Snacks/2024-02-01 - DB University - 3.md",
     "Workspace/09-laravel-intro/HelloWorldProject/storage/framework/cache/data",
     "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/VerifyCsrfToken.php",
     "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/TrustProxies.php",
@@ -185,13 +190,9 @@
     "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/EncryptCookies.php",
     "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Middleware/Authenticate.php",
     "Workspace/09-laravel-intro/HelloWorldProject/app/Http/Controllers/Controller.php",
-    "Workspace/09-laravel-intro/HelloWorldProject/app/Exceptions/Handler.php",
     "Workspace/09-laravel-intro/HelloWorldProject/README.md",
-    "Tips & Tricks/New Laravel Project.md",
     "Snacks/2024-02-05 - php-oop-2.md",
-    "Snacks/2024-02-06 - php-oop-2.md",
     "Snacks/2024-02-02 - php-oop-1.md",
-    "Snacks/2024-02-01 - DB University - 3.md",
     "Boolean Full Stack - 112.md",
     "conflict-files-obsidian-git.md",
     "Snacks/2024-01-31 - DB University.md",
