@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-09 - laravel-comics.md",
+=======
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
+>>>>>>> d31fe74f1a8c1a8748fd42b889c6e247600bdbe3
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-09 - laravel-comics.md",
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-09 - laravel-comics.md",
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +129,13 @@
             "state": {
               "type": "all-properties",
               "state": {
+<<<<<<< HEAD
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
+=======
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md"
+>>>>>>> d31fe74f1a8c1a8748fd42b889c6e247600bdbe3
               }
             }
           },
@@ -162,6 +170,7 @@
   },
   "active": "24211d52ff670ad5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "__assets/imgs/Pasted image 20240122125333.png",
     "__assets/imgs/Pasted image 20240131120038.png",
     "__assets/imgs/Pasted image 20240209114715.png",
@@ -186,5 +195,52 @@
     "Snacks/2024-02-09 - laravel-comics assets/favicon.ico",
     "Snacks/2024-02-09 - laravel-comics assets",
     "Tips & Tricks/Markdown/Markdown + Obsidian.md"
+=======
+    "Database/2024-02-12 - DB Movies.md",
+    "Database/2024-01-31 - DB University.md",
+    "Pasted image 20240212125323.png",
+    "movies.sql",
+    "__assets/dump/movies.sql",
+    "Snacks/2024-02-12 - laravel-model-controller.md",
+    "Snacks/2024-02-09 - laravel-comics.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/views/346297f7bfadc12575a9cf2e74f7d4f6d0bfa411.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/resources/views/pages/student.blade.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/resources/views/pages/index.blade copy.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/logs/laravel.log",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/app/Models/Student.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/app/Http/Controllers/MainController.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/sessions/ZPZ81x6a0T8k6wdO1EgnOXr3KjFbWChLYF5s8b30",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/views/7cfdea7958a27ba7575bbf4427c7a7aed476bb5a.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/helpers/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/env/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/core/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/adapters/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/@popperjs/core/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/@popperjs/core/LICENSE.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/lodash/release.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/lodash/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/vite/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/vite/LICENSE.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/to-regex-range/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/supports-preserve-symlinks-flag/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/source-map-js/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/source-map-js/CHANGELOG.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/sass/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/LICENSE.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/CHANGELOG.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/resolve/SECURITY.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/readdirp/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg"
+>>>>>>> d31fe74f1a8c1a8748fd42b889c6e247600bdbe3
   ]
 }
