@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-06 - php-oop-2.md",
+                "file": "Snacks/2024-02-09 - laravel-comics.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path::\"__assets/imgs/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-06 - php-oop-2.md",
+                "file": "Snacks/2024-02-09 - laravel-comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-06 - php-oop-2.md",
+                "file": "Snacks/2024-02-09 - laravel-comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-06 - php-oop-2.md"
+                "file": "Snacks/2024-02-09 - laravel-comics.md"
               }
             }
           }
@@ -162,19 +162,26 @@
   },
   "active": "24211d52ff670ad5",
   "lastOpenFiles": [
-    "Live/2024-02-05 - User Membership.md",
-    "homepage.png",
-    "Tips & Tricks/Aggiornare il Vault.md",
-    "Tips & Tricks/New Laravel Project.md",
-    "Snacks/2024-02-09 - laravel-comics assets/footer-bg.jpg",
-    "Snacks/2024-02-09 - laravel-comics assets/cta-icons.png",
-    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-subscriptions.png",
-    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-merchandise.png",
-    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-digital-comics.png",
-    "Snacks/2024-02-09 - laravel-comics assets/adv.jpg",
-    "single.png",
-    "Pasted image 20240209114715.png",
+    "__assets/imgs/Pasted image 20240122125333.png",
+    "__assets/imgs/Pasted image 20240131120038.png",
+    "__assets/imgs/Pasted image 20240209114715.png",
     "__assets/imgs/Pasted image 20240209115747.png",
+    "__assets/imgs/Pasted image 20240209114433.png",
+    "__assets/imgs/db_e-commerce.drawio.png",
+    "Snacks/2024-02-09 - laravel-comics assets/dc-logo.png",
+    "__assets/imgs/Senza nome",
+    "Snacks/2024-02-09 - laravel-comics.md",
+    "Snacks/2024-02-09 - laravel-comics assets/cta-icons.png",
+    "Snacks/2024-02-09 - laravel-comics assets/buy-dc-power-visa.svg",
+    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-subscriptions.png",
+    "Snacks/2024-02-09 - laravel-comics assets/buy-comics-shop-locator.png",
+    "Tips & Tricks/New Laravel Project.md",
+    "conflict-files-obsidian-git.md",
+    "Senza nome.md",
+    "Boolean Full Stack - 112.md",
+    "Snacks/2024-02-06 - php-oop-2.md",
+    "Live/2024-02-05 - User Membership.md",
+    "Tips & Tricks/Aggiornare il Vault.md",
     "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs",
     "Snacks/2024-02-09 - laravel-comics assets/favicon.ico",
     "Snacks/2024-02-09 - laravel-comics assets",
