@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md"
+                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "24211d52ff670ad5",
   "lastOpenFiles": [
+    "Tips & Tricks/New Laravel Project.md",
     "__assets/imgs/single.png",
     "__assets/imgs/homepage.png",
     "__assets/imgs/Pasted image 20240212125323.png",
@@ -172,7 +173,6 @@
     "Snacks/2024-02-12 - laravel-model-controller.md",
     "Database/2024-02-12 - DB Movies.md",
     "Database/2024-01-31 - DB University.md",
-    "Tips & Tricks/New Laravel Project.md",
     "Snacks/2024-01-31 - DB University - 2.md",
     "Snacks/2024-02-01 - DB University - 3.md",
     "Snacks/2024-02-09 - laravel-comics.md",
@@ -191,7 +191,6 @@
     "__assets/imgs/Pasted image 20240209115747.png",
     "__assets/imgs/Pasted image 20240209114433.png",
     "__assets/imgs/db_e-commerce.drawio.png",
-    "Snacks/2024-02-09 - laravel-comics assets/dc-logo.png",
     "__assets/imgs/Senza nome",
     "conflict-files-obsidian-git.md",
     "Senza nome.md",
