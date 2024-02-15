@@ -13,8 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
                 "mode": "source",
+=======
+                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
+                "mode": "preview",
+>>>>>>> e121f6924376f2ef55049d012444194165f9ad29
                 "source": false
               }
             }
@@ -69,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "87e921b242594e4a",
@@ -85,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
+                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
+                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +131,13 @@
             "state": {
               "type": "all-properties",
               "state": {
+<<<<<<< HEAD
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
+=======
+                "file": "Snacks/2024-02-15 - laravel-dc-comics.md"
+>>>>>>> e121f6924376f2ef55049d012444194165f9ad29
               }
             }
           },
@@ -162,6 +172,7 @@
   },
   "active": "24211d52ff670ad5",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Snacks/2024-02-12 - laravel-model-controller.md",
     "Snacks/2024-02-13 - laravel-migration-seeder.md",
     "Boolean Full Stack - 112.md",
@@ -202,5 +213,53 @@
     "Live/2024-02-05 - User Membership.md",
     "Tips & Tricks/Aggiornare il Vault.md",
     "Tips & Tricks/Markdown/Markdown + Obsidian.md"
+=======
+    "Tips & Tricks/New Laravel Project.md",
+    "Snacks/2024-02-15 - laravel-dc-comics.md",
+    "Snacks/2024-02-13 - laravel-migration-seeder.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/storage/framework/views/fd5ad13f527d1742c67d16020c51bab72e82d50b.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/create.blade.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/show.blade copy.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/storage/framework/views/118081aace57ecafe019107edec1ed714527d5b2.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/show.blade.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/index.blade copy.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/app/Http/Controllers/EmployeeController.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/storage/logs/laravel.log",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/database/seeders/EmployeeTableSeeder.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/database/factories/EmployeeFactory.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/axios/lib/helpers/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/axios/lib/env/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/axios/lib/core/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/axios/lib/adapters/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/@popperjs/core/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/@popperjs/core/LICENSE.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/lodash/release.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/lodash/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/to-regex-range/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/vite/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/vite/LICENSE.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/supports-preserve-symlinks-flag/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/source-map-js/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/source-map-js/CHANGELOG.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/sass/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/rollup/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/rollup/LICENSE.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/rollup/CHANGELOG.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/resolve/SECURITY.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/readdirp/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/postcss/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/picomatch/README.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/icon-book.svg"
+>>>>>>> e121f6924376f2ef55049d012444194165f9ad29
   ]
 }
