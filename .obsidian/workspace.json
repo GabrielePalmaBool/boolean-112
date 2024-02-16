@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
+                "file": "Boolean Full Stack - 112.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
+                "file": "Boolean Full Stack - 112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
+                "file": "Boolean Full Stack - 112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md"
+                "file": "Boolean Full Stack - 112.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "51e79c6e98ce2fec",
   "lastOpenFiles": [
+    "Snacks/2024-02-15 - laravel-dc-comics.md",
+    "Snacks/2024-02-13 - laravel-migration-seeder.md",
     "Live/2024-02-15 - laravel crud 1.md",
-    "Boolean Full Stack - 112.md",
-    "Snacks/2024-02-15 - laravel-dc-comics.md"
+    "Boolean Full Stack - 112.md"
   ]
 }
