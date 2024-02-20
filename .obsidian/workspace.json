@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-19 - laravel-dc-comics.md",
                 "mode": "source",
+=======
+                "file": "Boolean Full Stack - 112.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "bef008bf7d050cd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips & Tricks/New Laravel Project.md",
+                "mode": "preview",
+>>>>>>> 824abdca1830b19874d0372b1900935351a2fd48
                 "source": false
               }
             }
@@ -69,7 +87,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300
+=======
+    "width": 396.5,
+    "collapsed": true
+>>>>>>> 824abdca1830b19874d0372b1900935351a2fd48
   },
   "right": {
     "id": "20e75df4cae1a441",
@@ -85,7 +108,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-19 - laravel-dc-comics.md",
+=======
+                "file": "Tips & Tricks/New Laravel Project.md",
+>>>>>>> 824abdca1830b19874d0372b1900935351a2fd48
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-19 - laravel-dc-comics.md",
+=======
+                "file": "Tips & Tricks/New Laravel Project.md",
+>>>>>>> 824abdca1830b19874d0372b1900935351a2fd48
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +156,13 @@
             "state": {
               "type": "all-properties",
               "state": {
+<<<<<<< HEAD
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
+=======
+                "file": "Tips & Tricks/New Laravel Project.md"
+>>>>>>> 824abdca1830b19874d0372b1900935351a2fd48
               }
             }
           },
@@ -162,6 +197,7 @@
   },
   "active": "51e79c6e98ce2fec",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Snacks/2024-02-16 - laravel-dc-comics.md",
     "Snacks/2024-02-19 - laravel-dc-comics.md",
     "Snacks/2024-02-15 - laravel-dc-comics.md",
@@ -170,5 +206,53 @@
     "Boolean Full Stack - 112.md",
     "Snacks/2024-02-13 - laravel-migration-seeder.md",
     "Live/2024-02-15 - laravel crud 1.md"
+=======
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/boolean/my_project_name",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/boolean",
+    "Live/2024-02-20 - laravel crud auth.md",
+    "Tips & Tricks/New Laravel Project.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/storage/framework/sessions/o8N0jCvfL7zyfYyMG4ncdhI1bxupKupdv7N7RFxB",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/storage/framework/sessions/FDkaYUBeQbfAngrlBe5vsavnK3Bu7LZSJDvO7aSH",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/storage/framework/sessions/oKOx6e3KiQePtdIIkbsVQfEqQ6PfTWSt2SMNG0FZ",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/storage/framework/views/d7681106397248c4e19d5be2ef03fe55133a2384.php",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/app/Http/Requests/PokemonFormRequest.php",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/storage/framework/views/982b606129e161569ab3d7e970e5a65ca4630788.php",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/resources/views/pokemon/create.blade.php",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/storage/framework/views/7df392cabe509ae68b0f26be73432786d08b0381.php",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/resources/views/pokemon/index.blade.php",
+    "Boolean Full Stack - 112.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-book.svg",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/View/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Validation/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Translation/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Testing/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Support/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Session/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Routing/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Redis/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Queue/README.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Queue/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Pipeline/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Pagination/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Notifications/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Log/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Mail/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Macroable/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Http/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Hashing/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Filesystem/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Events/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Encryption/LICENSE.md",
+    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/laravel/framework/src/Illuminate/Database/README.md"
+>>>>>>> 824abdca1830b19874d0372b1900935351a2fd48
   ]
 }
