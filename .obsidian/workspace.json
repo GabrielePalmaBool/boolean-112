@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+=======
+                "file": "Snacks/2024-02-28 - Laravel API.md",
+>>>>>>> ead362c75b2f5977ae355c0130b8e24dc5faa477
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+=======
+                "file": "Snacks/2024-02-28 - Laravel API.md",
+>>>>>>> ead362c75b2f5977ae355c0130b8e24dc5faa477
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+=======
+                "file": "Snacks/2024-02-28 - Laravel API.md",
+>>>>>>> ead362c75b2f5977ae355c0130b8e24dc5faa477
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +137,13 @@
             "state": {
               "type": "all-properties",
               "state": {
+<<<<<<< HEAD
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
+=======
+                "file": "Snacks/2024-02-28 - Laravel API.md"
+>>>>>>> ead362c75b2f5977ae355c0130b8e24dc5faa477
               }
             }
           },
@@ -160,6 +176,58 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
+<<<<<<< HEAD
   "active": "08d34e5c6d44492b",
   "lastOpenFiles": []
+=======
+  "active": "a6490bad575bf924",
+  "lastOpenFiles": [
+    "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+    "Snacks/2024-02-28 - Laravel API.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/public/hot",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/seeders/PhotoTableSeeder.php",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/factories/PhotoFactory.php",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/app/Models/Photo.php",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/migrations/2024_02_28_104607_create_photos_table.php",
+    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/public/hot",
+    "Workspace/21-laravel-vue-api/vuejs-api/src/components/ApiContent.vue",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/package.json",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/index.js",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/HISTORY.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/delayed-stream/Readme.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-types/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-types/HISTORY.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/combined-stream/Readme.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/asynckit/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/proxy-from-env/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/core/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/adapters/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/helpers/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/env/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/SECURITY.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/MIGRATION_GUIDE.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/CHANGELOG.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/follow-redirects/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/form-data/Readme.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/vite/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/vite/LICENSE.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/@vue/compiler-sfc/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/@vue/runtime-dom/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/rollup/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/rollup/LICENSE.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/src/assets/vue.svg",
+    "Workspace/21-laravel-vue-api/vuejs-api/public/vite.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg"
+  ]
+>>>>>>> ead362c75b2f5977ae355c0130b8e24dc5faa477
 }
